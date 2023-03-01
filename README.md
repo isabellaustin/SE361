@@ -6,7 +6,7 @@ This course uses the Unified Modeling Language (UML) as a vehicle to introduce t
 
 
 Project Description:
-Insurance Claim Management System is a web-based application, designed to cover a wide range of insurance company adn management processes. It is an integrated end-to-end Insurance Claim Management System that provides relevant information across that insurance company to support effective decision making for clients, insurance administration, claim and finanial accounting in a seamless flow.
+Insurance Claim Management System is a web-based application, designed to cover a wide range of insurance company and management processes. It is an integrated end-to-end Insurance Claim Management System that provides relevant information across that insurance company to support effective decision making for clients, insurance administration, claim and finanial accounting in a seamless flow.
 
 Executable File Path: SE361 > SE361 > sparrow2-main > bin > Debug > MyLoginForm
 
